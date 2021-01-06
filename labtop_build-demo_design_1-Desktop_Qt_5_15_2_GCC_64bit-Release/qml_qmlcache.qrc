@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../demo_copy/main.qml</file>
+        <file alias="b9198f_f7fbe92ce51e448ebbce4b45a01bb126_mv2.gif">../demo_copy/b9198f_f7fbe92ce51e448ebbce4b45a01bb126_mv2.gif</file>
+    </qresource>
+</RCC>
